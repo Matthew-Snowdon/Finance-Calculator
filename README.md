@@ -1,5 +1,4 @@
-# Finance-Calculator
-# Investment and Bond Calculator
+# Finance-Calculator: Investment and Bond Calculator
 
 ## Description
 This Python script offers a simple yet powerful tool for financial calculations related to investments and bonds. It allows users to calculate the interest on investments or the monthly payments on home loans. The user-friendly interface guides through the process of choosing either an investment or bond calculation, prompting necessary inputs and displaying the results.
